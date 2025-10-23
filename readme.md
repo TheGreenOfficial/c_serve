@@ -28,7 +28,7 @@ A lightweight, high-performance web server written in C with built-in PHP suppor
 ### Compilation
 
 ```bash
-git clone https://github.com/yourusername/c_serve.git
+git clone https://github.com/TheGreenOfficial/c_serve.git
 cd c_serve
 gcc c_serve.c -o c_serve
 ```
